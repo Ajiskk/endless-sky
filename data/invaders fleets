@@ -1,0 +1,22 @@
+fleet "Invasion Scouts"
+	government "???"
+	names "invaders ships"
+	fighters "invaders fighters"
+	cargo 3
+	personality
+		timid opportunistic
+	variant 4
+		"Sentho"
+	variant 4
+		"Sentho (Speedy)"
+	variant 2
+		"Sentho (Heavy)"
+	variant 2
+		"Sentho (Bomber)"
+	variant 1
+		"Medusa"
+	variant 1
+		"Medusa (Sniper)"
+	variant 1
+		"Medusa (Heavy)"
+		
